@@ -24,7 +24,7 @@ To get started with TechnoShop API, follow these steps:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/yousefvafaei/DRF_shop.git
-    cd Store_DRF
+    cd DRF_shop
     ```
 
 2. **Create and activate a virtual environment using pipenv:**
